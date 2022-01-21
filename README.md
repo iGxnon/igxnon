@@ -1,4 +1,2 @@
-# Status
-![](https://github-readme-stats.vercel.app/api?username=igxnon&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iGxnon&layout=compact)
+# Cats make you happy
+![](https://gitee.com/iGxnon/image-host/raw/master/pic-go/0c6b5b82730ae88560f5adcd641315f5.jpg)
