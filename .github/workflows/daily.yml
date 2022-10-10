@@ -1,0 +1,20 @@
+name: Daily_Metrics
+
+on:
+  push: {branches: ["master", "main"]}
+  schedule: [{cron: "0 0 * * *"}]  # daily schedule
+  workflow_dispatch: "yes" 
+
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_isocalendar: yes
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}     
+
