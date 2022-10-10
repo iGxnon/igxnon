@@ -4,7 +4,6 @@
 
 ## Status
 
-- Sophomore
 - Back-end & Android & Machine-Learning
 - Email: igxnon@gmail.com
 - Blog: https://blog.skygard.cn/
@@ -16,7 +15,7 @@
 ![](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
 ![](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua)
 ![](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![](https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes)
 ![](https://img.shields.io/badge/-Istio-black?style=for-the-badge&logo=istio)
