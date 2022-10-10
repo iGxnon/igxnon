@@ -1,4 +1,4 @@
-<img align='left' src='./github-metrics.svg'>
+<img align='left' src='github-metrics.svg'>
 
 ## Status
 
