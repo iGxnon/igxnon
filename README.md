@@ -1,4 +1,4 @@
-<h1><center>Hi there! 👋</center></h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <img align='left' src='github-metrics.svg'>
 
