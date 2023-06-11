@@ -31,7 +31,6 @@
 
 ![](https://img.shields.io/badge/-MacOS-black?style=for-the-badge&logo=apple)
 ![](https://img.shields.io/badge/-Archlinux-black?style=for-the-badge&logo=archlinux)
-![](https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=windows)
 ![](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=neovim)
 ![](https://img.shields.io/badge/-Jetbrains-black?style=for-the-badge&logo=jetbrains)
 ![](https://img.shields.io/badge/-AndroidStudio-black?style=for-the-badge&logo=android)
