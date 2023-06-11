@@ -4,7 +4,7 @@
 
 ## Status
 
-- Back-end & Android & Machine-Learning
+- 🎸 & 👨‍💻
 - Email: igxnon@gmail.com
 - Blog: https://blog.skygard.work/
 
