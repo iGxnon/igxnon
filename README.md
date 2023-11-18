@@ -8,6 +8,7 @@
 - Email: igxnon@gmail.com
 - Blog: https://blog.skygard.work/
 - Interested in: Distributed System, Database
+- Dream to be a professional guitarist 🤤.
 
 ## Tech Stacks
 
