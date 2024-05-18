@@ -2,8 +2,6 @@
 
 <img align='left' src='github-metrics.svg'>
 
-## Status
-
 - 🎸 & 👨‍💻
 - Email: igxnon@gmail.com
 - Blog: https://blog.skygard.work/
