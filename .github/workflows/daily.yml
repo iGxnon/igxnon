@@ -13,7 +13,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: iGxnon/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories
@@ -24,5 +24,5 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
           plugin_wakatime: yes
-          plugin_wakatime_sections: time
+          plugin_wakatime_sections: time, projects-graphs
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
