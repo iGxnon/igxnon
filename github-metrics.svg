@@ -313,8 +313,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">blog</span>
-                                <div class="bar" style="width: 19.191999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 17.512%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                         </div>
                     </section>
