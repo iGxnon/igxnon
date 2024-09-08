@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1322 Commits
+                            1323 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 432 repositories
+                            Starred 433 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -164,20 +164,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 46.6mb of code in 7930 edited files across 1104 commits</small>
+                <small>estimation from 46.6mb of code in 7940 edited files across 1105 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="140.6952630925147" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="140.6952630925147" y="0" width="130.7921772215856" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="271.4874403141003" y="0" width="105.46376345331693" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="376.9512037674172" y="0" width="38.46781532509188" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="415.4190190925091" y="0" width="16.8103827295072" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="432.22940182201626" y="0" width="11.46839526058016" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="443.6977970825964" y="0" width="10.17210335832197" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.8699004409184" y="0" width="6.130099559081539" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="140.6441502994111" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="140.6441502994111" y="0" width="130.91177422125642" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="271.55592452066753" y="0" width="105.42544981430144" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="376.981374334969" y="0" width="38.453840458826726" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="415.4352147937957" y="0" width="16.804275732046452" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="432.23949052584214" y="0" width="11.46422893897629" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="443.70371946481845" y="0" width="10.168407963018998" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.8721274278375" y="0" width="6.127872572162571" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -190,7 +190,7 @@
                             </div>
                             <small>
                                 <div>1.75 MB</div>
-                                <div>30.59%</div>
+                                <div>30.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -202,7 +202,7 @@
                             </div>
                             <small>
                                 <div>1.31 MB</div>
-                                <div>22.93%</div>
+                                <div>22.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -240,7 +240,7 @@
                             </div>
                             <small>
                                 <div>1.63 MB</div>
-                                <div>28.43%</div>
+                                <div>28.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -295,7 +295,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~5 coding hours recorded
+                            ~7 coding hours recorded
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -313,18 +313,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">blog</span>
-                                <div class="bar" style="width: 64.47999999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">81%</span>
+                                <div class="bar" style="width: 42.728%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">53%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">raknet-rs</span>
-                                <div class="bar" style="width: 6.864%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 21.048000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">26%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">evenio</span>
-                                <div class="bar" style="width: 0.424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 2.832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
