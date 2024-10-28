@@ -4,5 +4,5 @@
 
 - 🎸 & 👨‍💻
 - Email: igxnon@gmail.com
-- Interested in: Distributed System, Networking and Storage
+- Interested in: Distributed System, Network and Storage
 - Dream to be a professional guitarist 🤤.
